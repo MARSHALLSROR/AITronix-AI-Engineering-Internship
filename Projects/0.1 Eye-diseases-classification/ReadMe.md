@@ -14,6 +14,9 @@ The model was trained on a dataset of 4,000+ images and achieved:
 - **Accuracy:** ~87%
 - **Framework:** PyTorch & Torchvision
 
+
+<img width="6034" height="4457" alt="Eye_Disease_Project_Dashboard" src="https://github.com/user-attachments/assets/402799c5-1edf-495c-8d16-360a4d2663d7" />
+
 ## 📂 Dataset Classes
 The model classifies images into:
 1. **Normal**
