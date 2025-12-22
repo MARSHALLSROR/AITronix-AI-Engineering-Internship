@@ -1,0 +1,20 @@
+# Ignore Data Files (Too large for GitHub)
+*.csv
+*.zip
+*.jpg
+*.png
+*.jpeg
+/data/
+/dataset/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore System Files
+.DS_Store
+Thumbs.db
+
+# Keep the images folder, but ignore other random images
+!01_Eye_Disease_Classification/images/
