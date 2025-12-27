@@ -3,6 +3,7 @@
 This project implements a fire detection model using the YOLOv8 object detection framework.
 
 The focus of this work is **practical fire detection**, prioritizing precision by filtering inference results to fire-only predictions with higher confidence thresholds. This design choice reduces noisy false positives caused by visually ambiguous smoke patterns.
+![__results___35_3](https://github.com/user-attachments/assets/dfbd9093-cd11-48d2-bd46-b96cefbb6e5e)
 
 ## Contents
 - `best-final.pt`: Trained YOLOv8 model weights
